@@ -22,6 +22,7 @@
              ["src/gorilla_repl/render_values_mw.clj" (render "src/gorilla_repl/render_values_mw.clj" data)]
              ["src/gorilla_repl/core.clj" (render "src/gorilla_repl/core.clj" data)]
              ["project.clj" (render "project.clj" data)]
+             ["resources/resources/gorilla-repl-client/jslib/mathjax/MathJax.js" (render "resources/resources/gorilla-repl-client/jslib/mathjax/MathJax.js")]
              ["resources/gorilla-repl-client/jslib/codemirror-4.5/mode/css/less.html" (render "resources/gorilla-repl-client/jslib/codemirror-4.5/mode/css/less.html")]
              ["resources/gorilla-repl-client/js/segment.js" (render "resources/gorilla-repl-client/js/segment.js")]
              ["resources/gorilla-repl-client/jslib/codemirror-4.5/mode/verilog/test.js" (render "resources/gorilla-repl-client/jslib/codemirror-4.5/mode/verilog/test.js")]
